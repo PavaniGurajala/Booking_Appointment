@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AppointmentBookingProject", "..\..\..\OneDrive\Desktop\New folder (4)\AppointmentBookingProject\", "{92D1B73D-6F51-418F-8833-94CFBA088680}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49898"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Desktop\New folder (4)\AppointmentBookingProject\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49898\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49898"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Desktop\New folder (4)\AppointmentBookingProject\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49898\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49898"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92D1B73D-6F51-418F-8833-94CFBA088680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D1B73D-6F51-418F-8833-94CFBA088680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEA29724-59A3-443B-84AE-14D0E3562C20}
+	EndGlobalSection
+EndGlobal
